@@ -23,6 +23,7 @@ public class AppUtils {
         Bitmap b3 = view.getDrawingCache();
         Bitmap b5 = view.getDrawingCache();
         Bitmap b6 = view.getDrawingCache();
+        Bitmap b7 = view.getDrawingCache();
 
         Rect frame = new Rect();
         activity.getWindow().getDecorView().getWindowVisibleDisplayFrame(frame);

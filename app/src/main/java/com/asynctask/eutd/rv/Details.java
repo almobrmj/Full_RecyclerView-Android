@@ -167,7 +167,7 @@ public class Details extends AppCompatActivity {
         flat1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+// added
                 if (GlobalData.natureModelsDeils.getNumberPhone() != null || GlobalData.natureModelsDeils.getNumberPhone() != null) {
 
                     Uri smsUri = Uri.parse("tel:" + GlobalData.natureModelsDeils.getNumberPhone());

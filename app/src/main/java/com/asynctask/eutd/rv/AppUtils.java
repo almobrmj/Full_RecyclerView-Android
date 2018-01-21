@@ -24,7 +24,7 @@ public class AppUtils {
         Bitmap b5 = view.getDrawingCache();
         Bitmap b6 = view.getDrawingCache();
         Bitmap b7 = view.getDrawingCache();
-
+// ni ni
         Rect frame = new Rect();
         activity.getWindow().getDecorView().getWindowVisibleDisplayFrame(frame);
         int statusBarHeight = frame.top;
